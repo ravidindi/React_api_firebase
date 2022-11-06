@@ -1,3 +1,3 @@
 # React_api_firebase
 This is basically about how to make http requests to api
-it uses fireabase real time database and fetches and posts data to it
+it uses firebase real time database and fetchesfrom  and posts data to it
